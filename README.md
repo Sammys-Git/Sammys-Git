@@ -63,10 +63,7 @@ Cross-team collaboration and communication
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sammys-Git&theme=dark)](https://git.io/streak-stats)
 ##  Most Used Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy-Git&layout=compact&theme=dark)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammys-Git&layout=compact&theme=dark)
 ##  GitHub Trophies:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sammy-Git&theme=darkhub&margin-w=15&margin-h=15)
